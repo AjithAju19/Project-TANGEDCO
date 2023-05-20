@@ -20,7 +20,7 @@ public class DBHandler {
 		try
 		{
 			Class.forName("com.mysql.cj.jdbc.Driver");
-			con = DriverManager.getConnection("jdbc:mysql://localhost:3306/tangedco","root","ajith");
+			con = DriverManager.getConnection("jdbc:mysql://localhost:3306/tangedco","root","");
 
 
                         System.out.println("Conn Success");
