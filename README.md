@@ -52,6 +52,13 @@ Contributions to the project are welcome. If you find any issues or have suggest
 
 ## ScreenShots
 
+![Screenshot (5)](https://github.com/AjithAju19/Project-TANGEDCO/assets/87603345/2d5c2426-caab-48f9-9957-87fd383a591e)
+
+![Screenshot (6)](https://github.com/AjithAju19/Project-TANGEDCO/assets/87603345/13b515c9-4fb9-42b8-a0d4-723c84b4630f)
+
+![Screenshot (7)](https://github.com/AjithAju19/Project-TANGEDCO/assets/87603345/a8278929-6a27-4c56-a9e4-2d1e06865c39)
+
+![Screenshot (8)](https://github.com/AjithAju19/Project-TANGEDCO/assets/87603345/377b6681-ac4c-41b4-aea7-82514c5b7209)
 
 
 ## Conclusion
